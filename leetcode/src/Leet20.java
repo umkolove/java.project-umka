@@ -11,4 +11,11 @@ public class Leet20 {
         }
         return stack.isEmpty();
     }
+
+    public static void main(String[] args) {
+        Leet20 solution = new Leet20();
+        String testString = "()[]{}";
+        boolean result = solution.isValid(testString);
+        System.out.println("Строка " + testString + " является " + (result ? "валидной" : "невалидной"));
+    }
 }
