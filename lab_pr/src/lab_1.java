@@ -3,7 +3,10 @@ import processing.core.PApplet;
 public class lab_1 extends PApplet {
 
     public static void main(String[] args) {
-        PApplet.lab_1("lab_1");
+        // Запуск приложения Processing
+        String[] processingArgs = {"lab_1"};
+        lab_1 mySketch = new lab_1();
+        PApplet.runSketch(processingArgs, mySketch);
     }
 
     @Override
@@ -21,6 +24,7 @@ public class lab_1 extends PApplet {
         background(255);
 
         fill(0, 0, 255);
+        float width = 0;
         rect(width / 3f, 200, width / 3f, 100);
         fill(255, 0, 0);
         text("Erbol", width / 3f + 100, 250);
@@ -65,6 +69,5 @@ public class lab_1 extends PApplet {
             fill(0, 0, 0);
             text("Aitenir", width / 3f + 100, 550);
         }
-
     }
 }

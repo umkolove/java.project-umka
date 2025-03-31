@@ -73,7 +73,7 @@ public class Main extends PApplet {
         fill(255, 0, 0);
         textSize(100);
         textAlign(CENTER, CENTER);
-        text("ЕБАТЬ ТЫ ЛОХ!!!", width / 2f, height / 2f);
+        text("ПИПЕЦ ТЫ ЛОХ!!!", width / 2f, height / 2f);
 
         fill(255);
         textSize(40);

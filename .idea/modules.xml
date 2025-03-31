@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beecrowd/beecrowd.iml" filepath="$PROJECT_DIR$/beecrowd/beecrowd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_pr/lab_pr.iml" filepath="$PROJECT_DIR$/lab_pr/lab_pr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/labwork/labwork.iml" filepath="$PROJECT_DIR$/labwork/labwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multi_problem/multi_problem.iml" filepath="$PROJECT_DIR$/multi_problem/multi_problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problems/problems.iml" filepath="$PROJECT_DIR$/problems/problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project_2048/project_2048.iml" filepath="$PROJECT_DIR$/project_2048/project_2048.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turtle-ninja/turtle-ninja.iml" filepath="$PROJECT_DIR$/turtle-ninja/turtle-ninja.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/umka.iml" filepath="$PROJECT_DIR$/.idea/umka.iml" />
+    </modules>
+  </component>
+</project>
